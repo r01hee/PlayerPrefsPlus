@@ -1,0 +1,8 @@
+{
+    "name": "dev.r01.playerprefsplus",
+    "displayName": "PlayerPrefsPlus",
+    "version": "1.0.0",
+    "unity": "2018.4",
+    "description": "Helper tools for UnityEngine.PlayerPrefs",
+    "dependencies": { }
+}
